@@ -1,4 +1,4 @@
 ---
-layout:none
+layout: none
 ---
 Coming soon...
