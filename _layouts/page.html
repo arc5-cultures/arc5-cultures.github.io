@@ -3,6 +3,9 @@ layout: default
 ---
 {% include header.html %}
   <div id="main" class="container">
+
+    {{/if page.title }}<h4 class="center">{{ page.title }}</h4>{{# if }}
+
     {{ content }}
   </div>
 {% include footer.html %}
