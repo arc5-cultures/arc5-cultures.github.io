@@ -1,7 +1,12 @@
 ---
 layout: page
-title: ""
+title: ''
+published: true
 ---
+##### L'ARC5
+
+[L’ARC 5 Cultures Sciences Médiations et Sociétés](http://arc5-cultures.rhonealpes.fr) a pour but de structurer et stimuler la production de connaissances scientifiques en Rhône-Alpes à la fois sur les contenus culturels eux-mêmes et sur les pratiques sociales de leur formation et de leur transmission. Il fait partie du programme ARC (Academic Research Communities),  programmes thématiques de soutien à la recherche mis en place en 2001 par la région Rhône-Alpes et destinés à structurer des communautés de recherche autour des principes de coopération et de coordination régionales.
+
 
 #### Panorama des relations entre recherche & culture en région Rhône-Alpes
 
@@ -13,9 +18,6 @@ Au moment où sont mises en œuvre de profondes recompositions territoriales, au
 3. présenter une photographie des activités de la recherche en Sciences Humaines et Sociales dans la région Rhône-Alpes.
 
 
-##### Un bilan des activités de l'ARC5
-
-[L’ARC 5 Cultures Sciences Médiations et Sociétés](http://arc5-cultures.rhonealpes.fr) a pour but de structurer et stimuler la production de connaissances scientifiques en Rhône-Alpes à la fois sur les contenus culturels eux-mêmes et sur les pratiques sociales de leur formation et de leur transmission. Il fait partie du programme ARCs (Academic Community Research) sont des programmes thématiques de soutien à la recherche de la Région Rhône-Alpes, destinés à structurer des communautés de recherche autour des principes de coopération et de coordination régionales. Aprés 5 années d'activités, il était temps de dreeser
 
 
 ##### Une enquête en région
