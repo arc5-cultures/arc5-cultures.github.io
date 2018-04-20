@@ -36,7 +36,7 @@ Afin de procéder à cette enquête, nous avons opté pour une méthodologie d�
 
 ![Une capture d'écran du réseau constitué durant l'enquête](/img/screenshot-topogram.png)
 
-[Consulter la cartographie](/map) - réalisée avec [Topogram](http://topogram.io).
+[Consulter la cartographie](./map) - réalisée avec [Topogram](http://topogram.io).
 
 
 ##### Télécharger et consulter les résultats de l'enquête
