@@ -33,6 +33,14 @@ $on-laptop:        800px;
     }
 }
 
+.disabled {
+    background:#ccc;
+    border-color: #ccc;
+    text-shadow:none;
+    pointer-events: none;
+    cursor: default;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 
 #map {
