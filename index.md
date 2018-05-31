@@ -34,7 +34,7 @@ Afin de procéder à cette enquête, nous avons opté pour une méthodologie d�
 3. et enfin la constitution d’une base de données puis d’une cartographie permettant de visualiser les réseaux et relations entre les différents acteurs en présence.
 
 
-![Une capture d'écran du réseau constitué durant l'enquête](/img/screenshot-topogram.png)
+![Une capture d'écran du réseau constitué durant l'enquête](./img/screenshot-topogram.png)
 
 [Consulter la cartographie](./map) - réalisée avec [Topogram](http://topogram.io).
 
